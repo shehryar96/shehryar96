@@ -1,3 +1,6 @@
+<h1 align="left">Hi 👋, I'm Muhammad Shehryar</h1>
+<h3 align="left">A passionate full Stack developer from Pakistan.</h3>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shehryar-4ab561167/) 
